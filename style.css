@@ -1,9 +1,22 @@
+header {
+    background-color: #DDDDDD;
+    display: flex;
+    align-items: center;
+  } 
 h1{ 
     font-family: 'Luckiest Guy', cursive;
     font-size: 90px;
 }
 h2{ 
     font-size: 50px;
+    color: rgb(167, 168, 201);
+}
+main{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: #DDDDDD;
 }
 footer {
     height: 3em;
