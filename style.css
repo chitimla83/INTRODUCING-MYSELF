@@ -1,4 +1,11 @@
 h1{ 
     font-family: 'Luckiest Guy', cursive;
-    font-size: 100px;
+    font-size: 90px;
 }
+h2{ 
+    font-size: 50px;
+}
+footer {
+    height: 3em;
+    background-color: #9fddd3;
+  }
